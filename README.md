@@ -6,6 +6,7 @@ ___
 
 ## __Primitives(&Coercion)__
   [Code Snippet : Type Conversion in JavaScript](https://github.com/Joaoviana/Type-Conversion-Snippet)
+  [Code Snippet : Expansions ](https://github.com/Joaoviana/Expansions)
 ___
 
 ## __Operators__
