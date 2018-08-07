@@ -15,10 +15,11 @@ ___
 ___
 
 ## __Variables__
-
+  [Code Snippet: Let vs Var ; Global vs Block Scope](https://github.com/Joaoviana/Code-Snippet---Let-Var-and-Block-Scope/tree/master)
 ___
 
 ## __Block-Scope__
+ [Code Snippet: Let vs Var ; Global vs Block Scope](https://github.com/Joaoviana/Code-Snippet---Let-Var-and-Block-Scope/tree/master)
 
 ___
 ## __Lexical-Scope__
