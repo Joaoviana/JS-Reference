@@ -34,7 +34,7 @@ ___
 ___
 
 ## __Error-Handling__
-
+[Trace Block Errors Handling](https://github.com/Joaoviana/Trace-blocking-errors)
 ___
 
 ## __Functions2__
