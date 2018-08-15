@@ -6,6 +6,7 @@ ___
 
 ## __Primitives(&Coercion)__
   [Code Snippet : Type Conversion in JavaScript](https://github.com/Joaoviana/Type-Conversion-Snippet)
+  [Code Snippet : Setting Prototypes to Data Primitives](https://github.com/Joaoviana/setting-protos)
 ___
 
 ## __Operators__
